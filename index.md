@@ -1,6 +1,9 @@
 ## Welcome to GitHub Pages
 
 RETI NEURALI
+
+https://towardsdatascience.com/neural-networks-and-the-universal-approximation-theorem-8a389a33d30a
+
 https://medium.com/@cosimo.iaia/machine-learning-tensorflow-per-luomo-di-strada-2c71a948b4e3
 
 https://github.com/ispamm/tensorflow-tutorial
