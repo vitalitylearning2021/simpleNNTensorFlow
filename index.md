@@ -1,34 +1,70 @@
 ## Welcome to GitHub Pages
 
 RETI NEURALI
-https://github.com/ispamm/tensorflow-tutorial
-https://www.developersmaggioli.it/blog/classificazione-con-rete-neurale/
 https://medium.com/@cosimo.iaia/machine-learning-tensorflow-per-luomo-di-strada-2c71a948b4e3
-https://amslaurea.unibo.it/21383/1/Implementazione%20di%20una%20Rete%20Neurale%20Convoluzionale%20con%20Dataset%20Custom%20per%20la%20Classificazione%20di%20Veicoli.pdf
-https://www.intelligenzaartificialeitalia.net/post/reti-neurali-con-python-tutorial-completo
+
+https://github.com/ispamm/tensorflow-tutorial
+
+https://towardsdatascience.com/build-a-simple-neural-network-with-tensorflow-js-d434a30fcb8
+
 https://notebook.community/ispamm/tensorflow-tutorial/1-Reti-neurali-feedforward
+
+https://towardsdatascience.com/building-your-first-neural-network-in-tensorflow-2-tensorflow-for-hackers-part-i-e1e2f1dfe7a0
+
+https://www.intelligenzaartificialeitalia.net/post/reti-neurali-con-python-tutorial-completo
+
+https://www.developersmaggioli.it/blog/classificazione-con-rete-neurale/
+
 https://computationalmindset.com/it/reti-neurali/pruning-di-reti-neurali-con-tensorflow.html
-https://www.ai4business.it/intelligenza-artificiale/deep-learning/deep-learning-cose/
+
 http://www.r-project.it/_book/reti-neurali-neural-networks-nn.html
 
-MUSIC GENERATION
-https://andreaprovino.it/rnn-tutorial-tensorflow-music-generation/
+https://github.com/aymericdamien/TensorFlow-Examples/tree/master/tensorflow_v2
 
 SENTIMENT ANALYSIS
 https://blog.profession.ai/come-creare-una-rete-neurale-per-la-sentiment-analysis-con-keras/
 
+RECURRENT NEURAL NETWORK: MUSIC GENERATION
+https://andreaprovino.it/rnn-tutorial-tensorflow-music-generation/
+
+https://github.com/aymericdamien/TensorFlow-Examples/tree/master/tensorflow_v2
+
+DEEP LEARNING
+https://www.ai4business.it/intelligenza-artificiale/deep-learning/deep-learning-cose/
+
+https://github.com/aymericdamien/TopDeepLearning
+
 RETI NEURALI CONVOLUZIONALI
+https://amslaurea.unibo.it/21383/1/Implementazione%20di%20una%20Rete%20Neurale%20Convoluzionale%20con%20Dataset%20Custom%20per%20la%20Classificazione%20di%20Veicoli.pdf
+https://github.com/aymericdamien/TensorFlow-Examples/tree/master/tensorflow_v2
 https://andreaprovino.it/convolutional-neuralnetwork/
 https://andreaprovino.it/tensorflow-mnist-tutorial-semplice-tensorflow-cnn/
 https://amslaurea.unibo.it/21383/1/Implementazione%20di%20una%20Rete%20Neurale%20Convoluzionale%20con%20Dataset%20Custom%20per%20la%20Classificazione%20di%20Veicoli.pdf
 https://www.domsoria.com/2019/10/rilevamento-di-oggetti-con-tensorflow/
 https://www.retineuraliartificiali.net/deep-learning/keras-tutorial/keras-tutorial-italiano/
+https://github.com/aymericdamien/TensorFlow-Examples/tree/master/tensorflow_v1
+
+RANDOM FOREST
+
+https://github.com/aymericdamien/TensorFlow-Examples/tree/master/tensorflow_v1
+
+GRADIENT BOOSTED DECISION TREES
+
+https://github.com/aymericdamien/TensorFlow-Examples/tree/master/tensorflow_v1
 
 GENERALE
+
+Qui ci sono molti tutorial su Tensorflow
 https://codeantenna.com/a/2VYFMYidO2
+
+https://machinelearningmastery.com/tensorflow-tutorial-deep-learning-with-tf-keras/
 
 QUANTUM COMPUTING
 https://www.ai4business.it/intelligenza-artificiale/storia-e-futuro-del-computer-quantistico-quantum-computing/
+
+TENSORFLOW FFT
+
+https://towardsdatascience.com/audio-processing-in-tensorflow-208f1a4103aa
 
 You can use the [editor on GitHub](https://github.com/vitalitylearning2021/simpleNNTensorFlow/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
