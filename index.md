@@ -2,6 +2,9 @@
 
 RETI NEURALI
 
+https://italiancoders.it/come-creare-una-rete-neurale-artificiale-da-zero/ (tumori)
+https://blog.profession.ai/la-tua-prima-classificazione/ (tumori)
+
 https://towardsdatascience.com/neural-networks-and-the-universal-approximation-theorem-8a389a33d30a
 
 https://medium.com/@cosimo.iaia/machine-learning-tensorflow-per-luomo-di-strada-2c71a948b4e3
@@ -29,6 +32,8 @@ https://blog.profession.ai/come-creare-una-rete-neurale-per-la-sentiment-analysi
 
 RECURRENT NEURAL NETWORK: MUSIC GENERATION
 https://andreaprovino.it/rnn-tutorial-tensorflow-music-generation/
+
+https://ichi.pro/it/tutorial-sulle-reti-neurali-ricorrenti-rnn-analisi-dei-dati-sequenziali-utilizzando-tensorflow-in-python-245828274713665
 
 https://github.com/aymericdamien/TensorFlow-Examples/tree/master/tensorflow_v2
 
