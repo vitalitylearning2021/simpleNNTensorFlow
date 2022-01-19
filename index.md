@@ -2,6 +2,11 @@
 
 RETI NEURALI
 
+https://journals.sagepub.com/doi/abs/10.1177/1351010X20917856
+BISOGNA METTERE QUALCOSA SU ACOUSTIC PROCESSING. VEDI ANCHE LIBRO DI CHRISTODOLOU
+
+SEQUENCING DI VIRUS??
+
 https://italiancoders.it/come-creare-una-rete-neurale-artificiale-da-zero/ (tumori)
 https://blog.profession.ai/la-tua-prima-classificazione/ (tumori)
 
