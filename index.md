@@ -37,6 +37,8 @@ https://github.com/aymericdamien/TensorFlow-Examples/tree/master/tensorflow_v2
 SENTIMENT ANALYSIS
 https://blog.profession.ai/come-creare-una-rete-neurale-per-la-sentiment-analysis-con-keras/
 
+https://github.com/ProfAI/tutorials/blob/master/Reti%20Neurali%20per%20la%20Sentiment%20Analysis%20con%20Keras/keras_imdb_sentiment_analysis.ipynb
+
 RECURRENT NEURAL NETWORK: MUSIC GENERATION
 https://andreaprovino.it/rnn-tutorial-tensorflow-music-generation/
 
