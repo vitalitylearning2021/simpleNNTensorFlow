@@ -4,6 +4,8 @@ RETI NEURALI
 
 https://github.com/Gillgren/Solving-Differential-Equations-with-Neural-Networks EQUAZIONI DIFFERENZIALI
 
+https://github.com/janblechschmidt/PDEsByNNs/blob/main/DeepBSDE_Solver.ipynb EQUAZIONI DIFFERENZIALI 
+
 https://journals.sagepub.com/doi/abs/10.1177/1351010X20917856
 BISOGNA METTERE QUALCOSA SU ACOUSTIC PROCESSING. VEDI ANCHE LIBRO DI CHRISTODOLOU
 
