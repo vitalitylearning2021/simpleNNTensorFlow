@@ -1,5 +1,13 @@
 ## Welcome to GitHub Pages
 
+TF_SimpleNN_ODE
+
+DOA_NN
+
+ODE_NN (altro account)
+
+TF_Gradient
+
 RETI NEURALI
 
 https://github.com/Gillgren/Solving-Differential-Equations-with-Neural-Networks EQUAZIONI DIFFERENZIALI
