@@ -1,12 +1,14 @@
 ## Welcome to GitHub Pages
 
-TF_SimpleNN_ODE
+1) TF_Gradient
+
+Rappresentazione
+
+2) TF_SimpleNN_ODE
+
+3) Fredholm integral equation
 
 DOA_NN
-
-ODE_NN (altro account)
-
-TF_Gradient
 
 RETI NEURALI
 
