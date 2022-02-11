@@ -4,11 +4,15 @@
 
 Rappresentazione
 
-2) TF_SimpleNN_ODE
+2) Teorema universale di rappresentazione
 
-3) Fredholm integral equation
+3) TF_SimpleNN_ODE
 
-DOA_NN
+4) Fredholm integral equation
+
+5) Volterra integral equation o qualcosa di non-lineare
+
+6) DOA_NN (il robot che stima la direzione acustica?) - qualcosa di equivalente a MUSIC?
 
 RETI NEURALI
 
