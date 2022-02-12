@@ -10,6 +10,8 @@ Rappresentazione
 
 4) Fredholm integral equation
 
+https://click.endnote.com/viewer?doi=10.1007%2Fs00521-010-0489-y&token=WzI0MzczOTgsIjEwLjEwMDcvczAwNTIxLTAxMC0wNDg5LXkiXQ.1lSePHy-q7Rno8rNZyQuTfGT9TQ
+
 5) Volterra integral equation o qualcosa di non-lineare
 
 6) DOA_NN (il robot che stima la direzione acustica?) - qualcosa di equivalente a MUSIC?
